@@ -45,7 +45,3 @@
 ##22. What features of Java 8 have you used on your projects? How lambdas are implemented under the hood?
 
 ##23. In your opinion, what is the main differencies between d2 and d3 level engeneers?
-
-#Vadim
-
-#Nastya
